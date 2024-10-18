@@ -1,5 +1,6 @@
 /* eslint-disable no-console */
 import express from 'express';
+import errorHandler from './src/middleware/errorHandler';
 import routes from './src/routes';
 import sequelize from './src/db';
 
@@ -12,6 +13,8 @@ app.use('/api', routes);
 app.get('/', (_req, res) => {
   res.json({ hi: 'Hello World' });
 });
+
+app.use(errorHandler);
 
 app.listen(PORT, async () => {
   try {
