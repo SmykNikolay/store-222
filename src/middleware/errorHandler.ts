@@ -1,7 +1,6 @@
 /* eslint-disable no-console */
 import { Request, Response, NextFunction } from 'express';
 
-// Middleware для обработки ошибок
 const errorHandler = (
   err: any,
   req: Request,

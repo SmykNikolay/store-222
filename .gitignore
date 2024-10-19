@@ -17,3 +17,4 @@ code-style.md
 
 # Typescript build
 dist
+database.sqlite

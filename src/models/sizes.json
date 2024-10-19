@@ -1,0 +1,79 @@
+[
+  {
+    "rusSize": "40",
+    "eurSize": "34",
+    "bust": "78-82",
+    "waist": "60-64",
+    "hips": "86-90"
+  },
+  {
+    "rusSize": "42",
+    "eurSize": "36",
+    "bust": "82-86",
+    "waist": "64-68",
+    "hips": "90-94"
+  },
+  {
+    "rusSize": "44",
+    "eurSize": "38",
+    "bust": "86-90",
+    "waist": "68-72",
+    "hips": "94-98"
+  },
+  {
+    "rusSize": "46",
+    "eurSize": "40",
+    "bust": "90-94",
+    "waist": "72-76",
+    "hips": "98-102"
+  },
+  {
+    "rusSize": "48",
+    "eurSize": "42",
+    "bust": "94-98",
+    "waist": "76-80",
+    "hips": "102-106"
+  },
+  {
+    "rusSize": "50",
+    "eurSize": "44",
+    "bust": "98-102",
+    "waist": "80-84",
+    "hips": "106-110"
+  },
+  {
+    "rusSize": "52",
+    "eurSize": "46",
+    "bust": "102-106",
+    "waist": "84-88",
+    "hips": "110-114"
+  },
+  {
+    "rusSize": "54",
+    "eurSize": "48",
+    "bust": "106-110",
+    "waist": "88-92",
+    "hips": "114-118"
+  },
+  {
+    "rusSize": "56",
+    "eurSize": "50",
+    "bust": "110-114",
+    "waist": "92-96",
+    "hips": "118-122"
+  },
+  {
+    "rusSize": "58",
+    "eurSize": "52",
+    "bust": "114-118",
+    "waist": "96-100",
+    "hips": "122-126"
+  },
+  {
+    "rusSize": "60",
+    "eurSize": "54",
+    "bust": "118-122",
+    "waist": "100-104",
+    "hips": "126-130"
+  }
+]

@@ -1,11 +1,14 @@
 /* eslint-disable no-console */
 import express from 'express';
+import cors from 'cors';
 import errorHandler from './src/middleware/errorHandler';
 import routes from './src/routes';
 import sequelize from './src/db';
 
 const app = express();
 const PORT = 8080;
+
+app.use(cors({ origin: '*' }));
 
 app.use(express.json());
 app.use('/api', routes);
